@@ -29,7 +29,7 @@ export const HeroSection = () => {
           <p className="mt-6 text-lg max-w-2xl text-gray-400">
             Olá! Sou Desenvolvedor de Software Fullstack e Pesquisador 
             focado em transformar problemas complexos em soluções de 
-            software eficientes, com foco e inovação digital.
+            software eficientes.
           </p>
 
           

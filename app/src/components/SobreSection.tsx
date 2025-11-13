@@ -10,7 +10,7 @@ export const SobreSection = () => {
     >
       <h2 className="text-3xl font-bold text-center mb-8">Sobre Mim</h2>
       <p className="text-lg text-gray-300 leading-relaxed max-w-3xl mx-auto">
-        Chamo-me Antônio Neto, sou formado em Análise e Desenvolvimento de Sistemas pela UFCA, tenho 27 anos, sou natural de
+        Mais conhecido como Neto, sou formado em Análise e Desenvolvimento de Sistemas pela UFCA, tenho 27 anos, sou natural de
         São Paulo-SP e atualmente residente em Natal-RN.
         <br />
         <br />
