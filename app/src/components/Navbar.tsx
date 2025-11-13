@@ -27,7 +27,7 @@ export const Navbar = () => {
         
         {/* Seu Nome/Logo */}
         <a href="#" className="text-2xl font-bold text-white">
-          Antônio Neto
+          A N
         </a>
 
         {/* Links de Navegação (Desktop) */}
